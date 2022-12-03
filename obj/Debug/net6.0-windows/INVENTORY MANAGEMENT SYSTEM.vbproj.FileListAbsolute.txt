@@ -1,0 +1,20 @@
+C:\Users\keuri\OneDrive\Documents\DEVELOPMENT\Windows Application\WINDOWS PROJECTS\INVENTORY MANAGEMENT SYSTEM\obj\Debug\net6.0-windows\INVENTORY MANAGEMENT SYSTEM.vbproj.AssemblyReference.cache
+C:\Users\keuri\OneDrive\Documents\DEVELOPMENT\Windows Application\WINDOWS PROJECTS\INVENTORY MANAGEMENT SYSTEM\obj\Debug\net6.0-windows\INVENTORY_MANAGEMENT_SYSTEM.addProduct.resources
+C:\Users\keuri\OneDrive\Documents\DEVELOPMENT\Windows Application\WINDOWS PROJECTS\INVENTORY MANAGEMENT SYSTEM\obj\Debug\net6.0-windows\INVENTORY_MANAGEMENT_SYSTEM.dailyView.resources
+C:\Users\keuri\OneDrive\Documents\DEVELOPMENT\Windows Application\WINDOWS PROJECTS\INVENTORY MANAGEMENT SYSTEM\obj\Debug\net6.0-windows\INVENTORY_MANAGEMENT_SYSTEM.dashboard.resources
+C:\Users\keuri\OneDrive\Documents\DEVELOPMENT\Windows Application\WINDOWS PROJECTS\INVENTORY MANAGEMENT SYSTEM\obj\Debug\net6.0-windows\INVENTORY_MANAGEMENT_SYSTEM.dashboardPage.resources
+C:\Users\keuri\OneDrive\Documents\DEVELOPMENT\Windows Application\WINDOWS PROJECTS\INVENTORY MANAGEMENT SYSTEM\obj\Debug\net6.0-windows\INVENTORY_MANAGEMENT_SYSTEM.deleteProduct.resources
+C:\Users\keuri\OneDrive\Documents\DEVELOPMENT\Windows Application\WINDOWS PROJECTS\INVENTORY MANAGEMENT SYSTEM\obj\Debug\net6.0-windows\INVENTORY_MANAGEMENT_SYSTEM.inventoryPage.resources
+C:\Users\keuri\OneDrive\Documents\DEVELOPMENT\Windows Application\WINDOWS PROJECTS\INVENTORY MANAGEMENT SYSTEM\obj\Debug\net6.0-windows\INVENTORY_MANAGEMENT_SYSTEM.loginForm.resources
+C:\Users\keuri\OneDrive\Documents\DEVELOPMENT\Windows Application\WINDOWS PROJECTS\INVENTORY MANAGEMENT SYSTEM\obj\Debug\net6.0-windows\INVENTORY_MANAGEMENT_SYSTEM.monthlyView.resources
+C:\Users\keuri\OneDrive\Documents\DEVELOPMENT\Windows Application\WINDOWS PROJECTS\INVENTORY MANAGEMENT SYSTEM\obj\Debug\net6.0-windows\INVENTORY_MANAGEMENT_SYSTEM.Resources.resources
+C:\Users\keuri\OneDrive\Documents\DEVELOPMENT\Windows Application\WINDOWS PROJECTS\INVENTORY MANAGEMENT SYSTEM\obj\Debug\net6.0-windows\INVENTORY_MANAGEMENT_SYSTEM.outProduct.resources
+C:\Users\keuri\OneDrive\Documents\DEVELOPMENT\Windows Application\WINDOWS PROJECTS\INVENTORY MANAGEMENT SYSTEM\obj\Debug\net6.0-windows\INVENTORY_MANAGEMENT_SYSTEM.registerForm.resources
+C:\Users\keuri\OneDrive\Documents\DEVELOPMENT\Windows Application\WINDOWS PROJECTS\INVENTORY MANAGEMENT SYSTEM\obj\Debug\net6.0-windows\INVENTORY_MANAGEMENT_SYSTEM.dailyProductsInViewer.resources
+C:\Users\keuri\OneDrive\Documents\DEVELOPMENT\Windows Application\WINDOWS PROJECTS\INVENTORY MANAGEMENT SYSTEM\obj\Debug\net6.0-windows\INVENTORY_MANAGEMENT_SYSTEM.updateProduct.resources
+C:\Users\keuri\OneDrive\Documents\DEVELOPMENT\Windows Application\WINDOWS PROJECTS\INVENTORY MANAGEMENT SYSTEM\obj\Debug\net6.0-windows\INVENTORY_MANAGEMENT_SYSTEM.yearlyView.resources
+C:\Users\keuri\OneDrive\Documents\DEVELOPMENT\Windows Application\WINDOWS PROJECTS\INVENTORY MANAGEMENT SYSTEM\obj\Debug\net6.0-windows\INVENTORY MANAGEMENT SYSTEM.vbproj.GenerateResource.cache
+C:\Users\keuri\OneDrive\Documents\DEVELOPMENT\Windows Application\WINDOWS PROJECTS\INVENTORY MANAGEMENT SYSTEM\obj\Debug\net6.0-windows\INVENTORY MANAGEMENT SYSTEM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keuri\OneDrive\Documents\DEVELOPMENT\Windows Application\WINDOWS PROJECTS\INVENTORY MANAGEMENT SYSTEM\obj\Debug\net6.0-windows\INVENTORY MANAGEMENT SYSTEM.AssemblyInfoInputs.cache
+C:\Users\keuri\OneDrive\Documents\DEVELOPMENT\Windows Application\WINDOWS PROJECTS\INVENTORY MANAGEMENT SYSTEM\obj\Debug\net6.0-windows\INVENTORY MANAGEMENT SYSTEM.AssemblyInfo.vb
+C:\Users\keuri\OneDrive\Documents\DEVELOPMENT\Windows Application\WINDOWS PROJECTS\INVENTORY MANAGEMENT SYSTEM\obj\Debug\net6.0-windows\INVENTORY MANAGEMENT SYSTEM.vbproj.CoreCompileInputs.cache
